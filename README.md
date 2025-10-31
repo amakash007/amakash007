@@ -1,6 +1,5 @@
-👋 Hi, I'm Akash Dhage
 
-💻 I'm a Full Stack Developer 🌟 Passionate about building full-stack web applications using React.js Next.js, MERN, and TypeScript Node.js, and MongoDB.
-🌱I enjoy building responsive, scalable web applications and continuously exploring new technologies to grow as a Software Engineer. 
-📫 Reach me at: LinkedIn- https://www.linkedin.com/in/akash-dhage07/
-⭐ Thanks for visiting my profile!
+👋 Hi, I'm Akash Dhage
+💻 Full Stack Developer passionate about building responsive, scalable web applications using React.js, Next.js, MERN, TypeScript, Node.js, and MongoDB.
+🌱 Continuously exploring new technologies to grow as a Software Engineer | 📫 LinkedIn
+ | ⭐ Thanks for visiting my profile!
