@@ -34,7 +34,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amakash007&label=Profile%20Views&color=0e75b6&style=flat)
 
-**Profile Views: 17**
+**Profile Views: 13**
 
 ---
 
